@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Antonieta Soto
 
-<!--
-**antsm15-web/antsm15-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Physics graduate from Chile with a strong analytical background and experience in scientific programming.
 
-Here are some ideas to get you started:
+📊 I am currently transitioning into Data Science, building practical projects in data analysis using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Jupyter Notebook
+* Git & GitHub (learning)
+
+## 📚 Currently Learning
+
+* Data Analysis
+* Data Visualization
+* SQL
+* Machine Learning
+
+## 📂 Featured Projects
+
+🚧 Projects coming soon...
+
+## 🎯 Career Goals
+
+I am looking to start my career in Data Science or Data Analytics, where I can apply my analytical skills, scientific background, and passion for solving problems with data.
+
+## 📫 Contact
+
+* LinkedIn: *(Add your profile when available)*
+* Email: *(Your email)*
