@@ -30,5 +30,5 @@ I am looking to start my career in Data Science or Data Analytics, where I can a
 
 ## 📫 Contact
 
-* LinkedIn: *(Add your profile when available)*
-* Email: *(Your email)*
+* LinkedIn: www.linkedin.com/in/antonieta-soto-458643285 
+* Email: ant.sm15@gmail.com
