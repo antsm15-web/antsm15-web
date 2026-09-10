@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Antonieta Soto
 
-🎓 Physics graduate from Chile with a strong analytical background and experience in scientific programming.
+🎓 Physics graduate with a strong analytical background and experience in scientific programming.
 
 📊 I am currently transitioning into Data Science, building practical projects in data analysis using Python.
 
@@ -10,15 +10,15 @@
 * Pandas
 * NumPy
 * Matplotlib
+* Scikit-learn
+* Tensor Flow / Keras
+* Excel
 * Jupyter Notebook
 * Git & GitHub (learning)
 
 ## 📚 Currently Learning
 
-* Data Analysis
-* Data Visualization
 * SQL
-* Machine Learning
 
 ## 📂 Featured Projects
 
@@ -30,5 +30,5 @@ I am looking to start my career in Data Science or Data Analytics, where I can a
 
 ## 📫 Contact
 
-* LinkedIn: www.linkedin.com/in/antonieta-soto-458643285 
+* LinkedIn: www.linkedin.com/in/antonieta-soto-458643285/ 
 * Email: ant.sm15@gmail.com
